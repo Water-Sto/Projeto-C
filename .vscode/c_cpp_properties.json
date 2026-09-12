@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Windows-MinGW",
+            "compilerPath": "C:/Program Files/JetBrains/CLion 2026.1.1/bin/mingw/bin/gcc.exe",
+            "intelliSenseMode": "windows-gcc-x64",
+            "cStandard": "c17"
+        }
+    ],
+    "version": 4
+}
